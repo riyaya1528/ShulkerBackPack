@@ -1,0 +1,4 @@
+name: ShulkerBackPack
+version: '${project.version}'
+main: riyaya1528.spigot.shulkerbackpack.ShulkerBackPack
+api-version: 1.17
